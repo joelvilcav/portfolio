@@ -1,0 +1,219 @@
+{
+  "headerPortfolio": {
+    "logo": {
+      "pathImage": "https://renzoqc.dev/files/external/joel/logo.svg",
+      "altImage": "portfolio",
+      "withText": false
+    },
+    "menuHeader": {
+      "menu": {
+        "colorNumber": "cyan-pf",
+        "colorItem": "white",
+        "data": [
+          {
+            "name": "About",
+            "goTo": "#AboutPortfolio"
+          },
+          {
+            "name": "Skillsets",
+            "goTo": "#SkillsPortfolio"
+          },
+          {
+            "name": "Work",
+            "goTo": "#ExperiencePortfolio"
+          },
+          {
+            "name": "Projects",
+            "goTo": "#ProjectsPortfolio"
+          },
+          {
+            "name": "Contact",
+            "goTo": "#ContactPortfolio"
+          }
+        ]
+      },
+      "logo": {
+        "path": "/"
+      },
+      "resume": {
+        "name": "Resume",
+        "goTo": "https://renzoqc.dev/files/external/joel/resume.pdf",
+        "color": "cyan-pf"
+      }
+    }
+  },
+  "sidesPortfolio": {
+    "left": {
+      "github": {
+        "show": true,
+        "url": "https://github.com/joelvilcav"
+      },
+      "instagram": {
+        "show": true,
+        "url": "https://www.instagram.com"
+      },
+      "twitter": {
+        "show": true,
+        "url": "https://twitter.com"
+      },
+      "linkedin": {
+        "show": true,
+        "url": "https://www.linkedin.com/in/jjvilcavuni/"
+      },
+      "editor": {
+        "show": true,
+        "url": "https://codepen.io"
+      }
+    },
+    "right": {
+      "email": "jvilcav29@gmail.com"
+    }
+  },
+  "homePortfolio": {
+    "greeting": "Hi, my name is",
+    "name": "Joel Vilca.",
+    "subtitle": "I build things for the web.",
+    "content": "I’m a Full-Stack Developer specializing in building digital experiences. I’m passionate about digital products that help people experience everyday life, not endure it.",
+    "resume": {
+      "text": "Download Resume",
+      "goTo": "https://renzoqc.dev/files/external/joel/resume.pdf"
+    },
+    "img": {
+      "path": "https://renzoqc.dev/files/memoji-mac.png",
+      "alt": "photo"
+    }
+  },
+  "aboutPortfolio": {
+    "header": {
+      "numberOrder": "01",
+      "text": "About Me"
+    },
+    "pathImage": "https://renzoqc.dev/files/external/joel/profile.jpeg",
+    "arrAbout": [
+      "Joel Vilca is trying his very best.\n",
+      "Joel Vilca works at <strong>R&G Solutions</strong> and he’s looking for working groups to carry out projects.. He’s trying his very best.\n",
+      "Joel Vilca works at <strong>R&G Solutions</strong> as a Full Stack Developer and he’s looking for working groups to carry out projects. He’s passionate about technology, so he’s always learning new tools. He’s trying his very best to follow his own advice. He lives in Lima, Peru.\n",
+      "Joel Vilca works at <strong>R&G Solutions</strong> as a Full Stack Developer and he’s responsible for the new features on the online system. He’s passionate about technology, so he’s always looking for new ideas for socially beneficial projects. He’s trying his very best to follow his own advice. He lives in Lima, Peru.\n",
+      "Joel Vilca works at <strong>R&G Solutions</strong> as a Full Stack Developer and he’s responsible for the new features on the online system, where he’s helping build the workflow for the modern web. He’s passionate about web development with best practices, clean code and unit testing, so he’s always looking for new project ideas that impact society. Outside of work, he likes to travel to enjoy nature and try new dishes. When this whole Internet thing wears off, he’ll probably just travel around the world.\n"
+    ],
+    "arrThoughts": [
+      "When you have a dream, you’ve got to grab it and never let it go.",
+      "What we do today is what matters the most.",
+      "You choose where you go, nothing should stop you."
+    ]
+  },
+  "skillsPortfolio": {
+    "header": {
+      "numberOrder": "02",
+      "text": "Skillsets"
+    },
+    "arrTech": [
+      { "name": "CSS3", "position": { "top": "10%", "left": "15%" } },
+      { "name": "MySQL", "position": { "top": "4%", "left": "26%" } },
+      { "name": "Docker", "position": { "top": "30%", "left": "22%" } },
+      { "name": "NestJS", "position": { "top": "25%", "left": "46%" } },
+      { "name": "Sass", "position": { "top": "10%", "left": "56%" } },
+      { "name": "ES6", "position": { "top": "38%", "left": "66%" } },
+      { "name": "Javascript", "position": { "top": "12%", "left": "71%" } },
+      { "name": "Java", "position": { "top": "28%", "left": "85%" } },
+      { "name": "Git", "position": { "top": "90%", "left": "11%" } },
+      { "name": "MongoDB", "position": { "top": "95%", "left": "30%" } },
+      { "name": "ExpressJS", "position": { "top": "85%", "left": "55%" } },
+      { "name": "Typescript", "position": { "top": "94%", "left": "73%" } },
+      { "name": "RESTful", "position": { "top": "82%", "left": "84%" } }
+    ]
+  },
+  "experiencePortfolio": {
+    "header": {
+      "numberOrder": "03",
+      "text": "Where I’ve worked"
+    },
+    "arrExp": [
+      {
+        "company": "R&G Solutions",
+        "title": "Full Stack Developer",
+        "country": "🇵🇪",
+        "date": "December 2021 - Current",
+        "goTo": "https://www.rygsol.com/",
+        "tasks": [
+          {
+            "content": "Backend software development for the promotion of new features of the online system trhough APIs."
+          },
+          {
+            "content": "Generation of current logistics reports and comparative charts displayed on dashboards. "
+          },
+          {
+            "content": "Management and production of on-premise servers - Ubuntu 18."
+          },{
+            "content": "Technologies: NestJs, TypeScript, ReactJs, Docker, NodeJs, JavaScript, MySQL, MongoDB, Java."
+          }
+        ]
+      },
+      {
+        "company": "EGO Telecom",
+        "title": "Web Developer",
+        "country": "🇵🇪",
+        "date": "August 2021 - November 2021",
+        "goTo": "https://www.linkedin.com/company/egotucomunidad/about/",
+        "tasks": [
+          {
+            "content": "Web scraping with Python."
+          },
+          {
+            "content": "Web development with Vanilla Js."
+          },
+          {
+            "content": "Technologies: HTML, CSS, JavaScript, Python."
+          }
+        ]
+      }
+    ]
+  },
+  "projectsPortfolio": {
+    "header": {
+      "numberOrder": "04",
+      "text": "Personal Projects"
+    },
+    "arrProjects": [
+      {
+        "img": {
+          "source": "https://renzoqc.dev/files/external/joel/company_2.jpeg",
+          "external": true
+        },
+        "description": {
+          "type": "Featured Project",
+          "title": "An Ecommerce",
+          "info": "A very <strong>intuitive ecommerce</strong> where you can simulate to buying sneakers, add to cart based on the stock and remove the product from there if you want to.",
+          "stack": "ReactJs, Firebase, JavaScript, HTML, CSS",
+          "github": "https://github.com/joelvilcav/ecommerce-coder",
+          "url": "https://ecommerce-coder-zeta.vercel.app/"
+        }
+      },
+      {
+        "img": {
+          "source": "https://renzoqc.dev/files/external/joel/company_1.jpeg"
+        },
+        "description": {
+          "type": "Featured Project",
+          "title": "Cryptocoins quoter",
+          "info": "A <strong>Frontend app</strong> where anyone can quote their favorite cryptocoin based on some local coins such as USD, Euro, Peruvian Sol, etc.",
+          "stack": "ReactJs, JavaScript, HTML, CSS",
+          "github": "https://github.com/joelvilcav/cryptocoins-quoter",
+          "url": "https://cryptocoins-quoter.vercel.app/"
+        }
+      }
+    ]
+  },
+  "contactPortfolio": {
+    "header": {
+      "numberOrder": "05",
+      "text": "What’s Next?"
+    },
+    "phrase": "Get In Touch",
+    "content1": "Thanks for stopping by, I’m currently looking to join a new team of creative developers. Ask for my resume or see if we can build something amazing together?",
+    "content2": "I’d love to hear from you!",
+    "buttonGoTo": "jvilcav29@gmail.com",
+    "buttonText": "Say Hello",
+    "signature": "Designed & Built by Joel Vilca"
+  }
+}
